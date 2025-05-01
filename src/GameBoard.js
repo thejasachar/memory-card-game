@@ -16,7 +16,7 @@ class GameBoard extends Component {
       flipped: [],
       matched: [],
       moves: 0,
-      maxMoves: 50,
+      maxMoves: 40,
       timeLeft: 120,
       gameOver: false,
       gameWon: false,
